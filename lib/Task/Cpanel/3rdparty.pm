@@ -75,6 +75,14 @@ Perl module to read TNEF files
 
 use Convert::TNEF;
 
+=item L<DBD::Pg|DBD::Pg>
+
+PostgreSQL database driver for the DBI module
+
+=cut
+
+use DBD::Pg;
+
 =item L<DBD::SQLite|DBD::SQLite>
 
 Self-contained RDBMS in a DBI Driver
