@@ -7,7 +7,7 @@
 # same terms as Perl itself. See L<perlartistic>.
 #
 
-use Test::More tests => 34;
+use Test::More tests => 35;
 use FindBin;
 
 open( my $fh, "<", "$FindBin::Bin/../lib/Task/Cpanel/3rdparty.pm" );
