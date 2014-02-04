@@ -2,3 +2,5 @@ Revision history for Task-Cpanel-3rdparty
 
 11.36.001    Friday July 19, 2012
     Initial release to CPAN
+11.36.002    Monday July 23, 2012
+    Add DBD::Pg
